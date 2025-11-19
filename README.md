@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://i.ibb.co/hFXxpDHd/Gemini-Generated-Image-gkga8agkga8agkga.png" style="width:100%; height:auto;"/>
-</p>
+<img align="center" src="https://i.ibb.co/DDKjmm2h/Gemini-Generated-Image-20ipvt20ipvt20ip.png" height="full" width="full" />
+
+
 
 <h1 align="center">Hi 👋, I'm Azmain Bin Arif</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
