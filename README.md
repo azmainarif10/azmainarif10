@@ -1,5 +1,5 @@
-<img align="center" src="https://i.ibb.co/DDKjmm2h/Gemini-Generated-Image-20ipvt20ipvt20ip.png" height="full" width="full" />
 
+<img align="center" src="https://i.ibb.co/DDKjmm2h/Gemini-Generated-Image-20ipvt20ipvt20ip.png" height="full" width="full" />
 
 
 <h1 align="center">Hi 👋, I'm Azmain Bin Arif</h1>
