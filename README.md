@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Azmain Bin Arif</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<img align="right" rounded="10" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNDA0N2pzYWd3Zzlra283MWNmeThrdHo3YTB1YzY1bnNqcHRoYTdjdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 - 🌱 I’m currently learning **Express,Js,React**
