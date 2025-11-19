@@ -1,9 +1,11 @@
+<p align="center">
+  <img src="https://i.ibb.co/hFXxpDHd/Gemini-Generated-Image-gkga8agkga8agkga.png" style="width:100%; height:auto;"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Azmain Bin Arif</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azmainarif10&label=Profile%20views&color=0e75b6&style=flat" alt="azmainarif10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azmainarif10" alt="azmainarif10" /></a> </p>
 
 - 🌱 I’m currently learning **Express,Js,React**
 
@@ -27,6 +29,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azmainarif10&" alt="azmainarif10" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azmainarif10&label=Profile%20views&color=0e75b6&style=flat" alt="azmainarif10" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azmainarif10" alt="azmainarif10" /></a> </p>
 
 <!--
 **azmainarif10/azmainarif10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
